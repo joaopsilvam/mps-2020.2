@@ -1,4 +1,4 @@
-# mps-2020.2
+# Métodos de Projeto de Software - Projeto 1
 
 Mantenedor:
 João Paulo Silva Martins
